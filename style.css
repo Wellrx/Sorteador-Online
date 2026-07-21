@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: #000;
+}
+
+header{
+    display:flex;
+    justify-content:center;
+}
+
+img {
+    width: 90%;
+    max-width: 470px;
+    height: auto;
+    margin: 15px auto 58px
+}
+
+h1,
+h2 {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 100%;
+    display: block;
+    margin: 10px auto 10px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    appearance: textfield;
+    -moz-appearance: textfield;
+}
+
+.number-input {
+    width: 90%;
+    max-width: 342px;
+    height: 74px;
+    border-radius: 14px;
+    border:1px solid #777;
+    text-align: center;
+    margin: 2px auto;
+    background-color: rgba(85, 85, 85, 0.815);
+    cursor: text;
+}
+
+#principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+button {
+    width: 90%;
+    max-width: 342px;
+    height: 72px;
+    border-radius: 10px;
+    background-color: #AEC346;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+    border: none;
+}
+
+button:focus,
+input:focus {
+    outline:2px solid #AEC346;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.5;
+}
