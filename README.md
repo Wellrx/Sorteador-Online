@@ -15,7 +15,7 @@ https://github.com/Wellrx/Sorteador-Online.git
 
 ## 📸 Preview
 
-(./assets/preview.gif)
+![Preview do projeto](./assets/preview.gif)
 
 ---
 
