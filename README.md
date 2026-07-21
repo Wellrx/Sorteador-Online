@@ -9,17 +9,13 @@ Desenvolvido como projeto de estudo para praticar HTML, CSS e JavaScript.
 ## 🚀 Demonstração
 
 🔗 **Acesse o projeto:**  
-> (Adicionar o link do GitHub Pages após a publicação)
+https://github.com/Wellrx/Sorteador-Online.git
 
 ---
 
 ## 📸 Preview
 
-> Adicione aqui uma captura de tela do projeto.
-
-Exemplo:
-
-![Preview do projeto](./assets/preview.gif)
+(./assets/preview.gif)
 
 ---
 
